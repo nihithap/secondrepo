@@ -1,1 +1,2 @@
 Hello, welcome to git tutorial
+we will learn git add, commit,push
